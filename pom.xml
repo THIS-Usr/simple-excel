@@ -32,7 +32,7 @@
     </distributionManagement>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/tobyweston/simple-excel.git</developerConnection>
+        <developerConnection>scm:git:https://github.com/THIS-Usr/simple-excel.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
 
